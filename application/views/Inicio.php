@@ -56,7 +56,7 @@
 		<script src="<?php echo base_url('resources/js/jquery.js'); ?>" ></script>
 		<script src="<?php echo base_url('resources/bootstrap/js/bootstrap.js'); ?>" ></script>
 		<script src="<?php echo base_url('resources/bootstrap/js/bootstrap.bundle.js'); ?>" ></script>
-		<script src="<?php echo base_url('resources/granim/dist/granim.js'); ?>" ></script>
+		<script src="<?php echo base_url('resources/js/granim.js'); ?>" ></script>
 		<script src="<?php echo base_url('resources/scripts/login.js'); ?>" ></script>
 		<script type="text/javascript" >
 
